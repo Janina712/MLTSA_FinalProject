@@ -1,5 +1,5 @@
 # MLTSA_FinalProject
-Epilepsy Project
+Machine Learning Application in Epilepsy Diagnosis and Seizure Detection
 
 Members: Janina Boecher, Kristina Rainich, Ilia Tiagin
 
