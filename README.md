@@ -1,3 +1,4 @@
 # MLTSA_FinalProject
-Epilepsy
-Memebers: Janina Boecher, Kristina Rainich, Ilia Tiagin
+Epilepsy Project
+
+Members: Janina Boecher, Kristina Rainich, Ilia Tiagin
